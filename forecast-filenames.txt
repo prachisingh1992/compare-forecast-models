@@ -1,0 +1,7 @@
+ADBE Historical Data
+AMZN Historical Data
+COST Historical Data
+MAR Historical Data
+PYPL Historical Data
+LULU Historical Data
+AAL Historical Data

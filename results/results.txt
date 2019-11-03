@@ -1,0 +1,8 @@
+
+ADBE Historical Data :: Single Layer Neural Network
+AMZN Historical Data :: Single Layer Neural Network
+COST Historical Data :: Single Layer Neural Network
+MAR Historical Data :: Single Layer Neural Network
+PYPL Historical Data :: Exponential Smoothing (ETS)
+LULU Historical Data :: Single Layer Neural Network
+AAL Historical Data :: ARIMA
